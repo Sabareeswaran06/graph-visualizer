@@ -85,7 +85,7 @@ graph-visualizer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/graph-visualizer.git
+git clone https://github.com/Sabareeswaran06/graph-visualizer.git
 cd graph-visualizer
 ```
 
